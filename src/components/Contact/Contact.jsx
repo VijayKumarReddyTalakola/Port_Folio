@@ -24,19 +24,19 @@ const Contact = () => {
         <div className="c-bg"></div>
         <div className="c-wrapper">
             <div className="c-left">
-                <h1 className="c-title">Lets discuss your Project</h1>
+                <h1 className="c-title">Lets discuss</h1>
                 <div className="c-info">
                     <div className="c-info-item">
                         <img src={Phone} alt="" className="c-icon" />
-                        +1 1234 567 89
+                        +919515643851
                     </div>
                     <div className="c-info-item">
                         <img src={Email} alt="" className="c-icon" />
-                        contact@lama.dev
+                        talakolavijaykumar@gmail.com
                     </div>
                     <div className="c-info-item">
                         <img src={Address} alt="" className="c-icon" />
-                        245 King street,Touterie Victoria 8520 Australia
+                        Guntur,Andhra Pradeh ,India-522005
                     </div>
                 </div>
             </div>
